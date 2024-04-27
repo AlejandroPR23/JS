@@ -4,5 +4,6 @@ let numero2=4;
 let resultado=numero1+numero2;
 
 console.log(resultado);
+document.getElementById("resultado").innerHTML=resultado
 
 
